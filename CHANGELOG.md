@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2026-05-21
+## [1.0.0] - 2026-05-22
 
 ### Added
 - Initial release of Image-Charts Pie Chart Generator PCF component
