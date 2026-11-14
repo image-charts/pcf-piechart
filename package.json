@@ -1,6 +1,6 @@
 {
   "name": "@image-charts/pcf-piechart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image-Charts Pie Chart Generator for Microsoft Power Apps (PCF Component)",
   "main": "solution/ImageChartsPieChart.zip",
   "types": "src/PieChartGenerator/index.d.ts",
